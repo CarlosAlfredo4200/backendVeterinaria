@@ -1,0 +1,20 @@
+Instalar npm init para el package.json
+Instalar express
+
+ejecutar servidor = npm run dev
+
+Instalar nodemon = npm i -D nodemon  "Solo dollo"
+NOTA IMPORTANTE: En node ya hay soprote para la nueva sintaxis jsscript. Hay dos formas: 
+    cambiando el nombre de los archivos con  index.mjs  
+    modificar el json con "type": "module",
+
+utilizo ORM: mongoose. Para sinplificar los llamado a la base de datos
+
+
+MONGO_URI= mongodb+srv://ProyectoVeterinaria:root@proyectoveterinaria.0nyug.mongodb.net/proyectoVeterinaria?retryWrites=true&w=majorityo
+Instalar = npm i dotenv : para las variables
+
+Instalar : npm i bcrypt
+Instalar : npm i jsonwebtoken
+Instalar : npm i cors    para los permisos entre localhost
+
